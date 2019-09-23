@@ -1,0 +1,33 @@
+PODS:
+  - cl_dialog_flutter (0.0.1):
+    - Flutter
+    - IDealist
+  - Flutter (1.0.0)
+  - IDealist (0.0.7):
+    - JXSegmentedView (= 0.0.4)
+  - JXSegmentedView (0.0.4)
+
+DEPENDENCIES:
+  - cl_dialog_flutter (from `.symlinks/plugins/cl_dialog_flutter/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IDealist
+    - JXSegmentedView
+
+EXTERNAL SOURCES:
+  cl_dialog_flutter:
+    :path: ".symlinks/plugins/cl_dialog_flutter/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  cl_dialog_flutter: f1e428b0cc647434581a3f992ac3032f0cdeac5e
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  IDealist: 4b037c31878046980cb8c53d73238e1dd6e1f14e
+  JXSegmentedView: 2b036fc37f26fbd369f79b8953c610efe19bd529
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.7.0
